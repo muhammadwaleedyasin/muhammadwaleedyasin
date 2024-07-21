@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/muhammadwaleedyasin/muhammadwaleedyasin/blob/main/Yourparagraphtext.png)
 <h1 align="center">Hi 👋, I'm Scientist. Muhammad Waleed</h1>
-<h3 align="center">I have a real passion for the world of data science and artificial intelligence. I've spent countless hours diving into the exciting realm of numbers, algorithms, and innovative technologies.
+<h3 align="justify">I have a real passion for the world of data science and artificial intelligence. I've spent countless hours diving into the exciting realm of numbers, algorithms, and innovative technologies.
 
 Turning Data into Stories:
 One of my favorite things to do is taking raw data and transforming it into stories that everyone can understand. Whether it's crunching numbers with Power BI or doing some number wizardry with MATLAB, I'm the storyteller who makes data come to life.
