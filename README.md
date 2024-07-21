@@ -31,7 +31,7 @@ I'm a big believer in the power of AI Automation (AAA). It's not just about tech
 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Chatbots, Natural Language Processing(NLP), Deep Learning, Data Science**
 
-- 📫 How to reach me **oox.mwy@gmail.com**
+- 📫 How to reach me **muhammadwaleed@ofinityx.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
