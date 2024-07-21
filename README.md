@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/muhammadwaleedyasin/muhammadwaleedyasin/blob/main/Left-Right-Brain-Signals.gif)
+![MasterHead](https://github.com/muhammadwaleedyasin/muhammadwaleedyasin/blob/main/Your paragraph text.png)
 <h1 align="center">Hi 👋, I'm Muhammad Waleed</h1>
 <h3 align="justify">I have a real passion for the world of data science and artificial intelligence. I've spent countless hours diving into the exciting realm of numbers, algorithms, and innovative technologies.
 
