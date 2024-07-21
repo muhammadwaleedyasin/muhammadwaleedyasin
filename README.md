@@ -1,6 +1,27 @@
 ![MasterHead](https://github.com/muhammadwaleedyasin/muhammadwaleedyasin/blob/main/Left-Right-Brain-Signals.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Waleed</h1>
-<h3 align="justify">Hello there, I'm an enthusiastic Data Scientist with expertise in Artificial Intelligence and Machine Learning. Currently, I'm doing my best of best to gain more and more Experience in the field of Data Science and Artificial Intelligence. Working with large datasets is one of my favorite things to do. Understanding all phases of the data science process, including obtaining the data, cleaning it, performing exploratory analyses, building models and evaluating them, and presenting the results (i.e. data storytelling). Detail-oriented individual who is passionate about how data impacts our lives. In my current position, I work as a freelancer, using analytical tools, creating and maintaining models, and onboarding new data sets to improve products and automate processes. Previously, have had experience in web development, logo designing, and video editing, and worked on different projects. I'm also a car enthusiast. I love to maintain, upgrade or modify cars. Love the way how this technology works. SKILLS: Programming Languages: C++, Python, R(In Progress), SQL Power BI, Jupyter Notebook, Google Colab, Spyder, Microsoft Visual Studio Code, Microsoft Excel Libraries: Numpy, Scikit-Learn, Tslearn, Pandas, Scikit-Image, Matplotlib, e1071, NNET, (Recursive Partitioning and Regression Trees), Natural Language Toolkit, Spacy Classifiers: Regression, SVM, Neural Network, KNN, K-means, Logistic regression, Random Forest, Decision Trees, and Naive Bayes.</h3>
+<h3 align="justify">I have a real passion for the world of data science and artificial intelligence. I've spent countless hours diving into the exciting realm of numbers, algorithms, and innovative technologies.
+
+Turning Data into Stories:
+One of my favorite things to do is taking raw data and transforming it into stories that everyone can understand. Whether it's crunching numbers with Power BI or doing some number wizardry with MATLAB, I'm the storyteller who makes data come to life.
+
+The Magic of Machine Learning:
+Machine learning is like a playground for me. I love working with Python, and I've got my hands on some pretty impressive tools like OpenAI's AutoGPT. Together, we create intelligent solutions that feel like pure magic.
+
+Creating Conversations with AI:
+Have you ever talked to a chatbot and it felt like you were chatting with a human? That's where my expertise in Rasa and Langchain comes in. I specialize in crafting AI conversations that are so smooth, you'll forget you're talking to a machine.
+
+Building the Digital World:
+Beyond data and AI, I'm a web development enthusiast. I build sleek web apps using FastAPI and make sure they're as user-friendly as they are functional.
+
+Bringing AI to the Real World:
+I'm all about integrating AI into real-world applications, making websites smarter and user experiences more engaging. If you want to add some AI magic to your digital presence, I'm your go-to expert.
+
+Certified and Committed:
+I've got the certifications to back up my skills. As a certified Data Scientist, Data Analyst, and AI Engineer, I'm always up-to-date with the latest in the field.
+
+Unlocking the Power of Automation:
+I'm a big believer in the power of AI Automation (AAA). It's not just about technology; it's about optimizing processes, making better decisions, and creating intelligent solutions for the future.</h3>
 
 <!--<img align="right" alt="Coding" width="400" src="https://github.com/muhammadwaleedyasin/muhammadwaleedyasin/blob/main/New-file.gif">-->
 
